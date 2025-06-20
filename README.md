@@ -28,6 +28,7 @@ Showcase your goals, dreams, and aspirations for 2025 with animated polaroids an
 ---
 
 ## 📂 Project Structure
+vision-board-index.html
 
 ---
 
